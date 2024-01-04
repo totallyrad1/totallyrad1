@@ -4,5 +4,6 @@ Hello there! 👋 I'm Asaad Naji, an 18-year-old coding enthusiast on a journey 
 
 # My 42 cursus progression 
 
-<img width="1112" alt="image" src="https://github.com/totallyrad1/totallyrad1/assets/67210558/8662ffe1-0701-4e64-872a-93f5bb318b1c">
+<img width="1050" alt="image" src="https://github.com/totallyrad1/totallyrad1/assets/67210558/9d597021-f8b8-41eb-988e-522076906ab2">
+
 
