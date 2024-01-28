@@ -1,6 +1,6 @@
 # About Me
 
-Hello there! 👋 I'm Asaad Naji, an 18-year-old coding enthusiast on a journey to explore the vast world of technology. Currently, I'm immersed in the exciting realm of programming, and my passion for coding knows no bounds.
+Hello there! 👋 I'm Asaad Naji, an 18-year-old , i study at 1337 khouribga.
 
 # My 42 cursus progression 
 
