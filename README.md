@@ -1,6 +1,6 @@
 # About Me
 
-RaD , 18 years old,  coding enthusias
+RaD , 18 years old,  coding enthusiast
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lwhrds21ba75kf3arfmadg4s7&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
