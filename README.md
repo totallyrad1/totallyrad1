@@ -2,7 +2,7 @@
 
 RaD , 18 years old,  coding enthusiast
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lwhrds21ba75kf3arfmadg4s7&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lwhrds21ba75kf3arfmadg4s7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 # 42 cursus progression 
 
