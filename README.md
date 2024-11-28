@@ -4,9 +4,6 @@
 
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=totallyrad1" alt="totallyrad1" /></p>
 
-
-<p align="center"><img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/totallyrad1?cardType=github&theme=dark&preferLogin=true&Background=000000" alt="totallyrad1" /></p>
-
 <p align="left">
 </p>
 
@@ -15,5 +12,4 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=totallyrad1&show_icons=true&locale=en&layout=compact" alt="totallyrad1" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=totallyrad1&show_icons=true&locale=en" alt="totallyrad1" /></p>
 
