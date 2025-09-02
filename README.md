@@ -1,6 +1,6 @@
 # About Me
 
-<p align="center">RaD , 19 years old,  coding enthusiast</p>
+<p align="center">RaD , 20 years old,  coding enthusiast</p>
 
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=totallyrad1" alt="totallyrad1" /></p>
 
